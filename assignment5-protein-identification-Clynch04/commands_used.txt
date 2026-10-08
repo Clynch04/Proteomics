@@ -1,0 +1,15 @@
+# activates venv
+source /workdir/biol_594_694/proteomics_venv/bin/activate
+
+# generates target-decoy database
+# first input: <M_maripaludis_database>
+# second input: <cRAP_database>
+python generate_target_decoy_from_fasta.py methanococcus_maripaludis_proteome.fasta cRAP_2021-09-02.fasta
+
+# copies pointers of mzML files into current directory
+for f in /workdir/biol_594_694/lab6/*.mzML; do ln -s "$f" "$(basename "$f")"; done
+
+# conducts protein database search/statistical post-processing with selected parameters
+# first input: <folder_with_mzML> 
+# second input: <target-decoy_database>
+python protein_database_search.py mzML_files decoy_stuff/Methanococcus_maripaludis_UniProt_cRAP_target-decoy_trypsin.fasta
