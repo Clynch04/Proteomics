@@ -1,0 +1,13 @@
+Protein Group,Culture_1,Culture_2,Culture_8
+"sp|Q6LWL2|HDRA_METMP H(2)/formate:CoB-CoM heterodisulfide,ferredoxin reductase subunit A OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=hdrA PE=1 SV=2",0,1,1
+sp|Q6LXQ2|FDHB1_METMP F420-dependent formate dehydrogenase 1 subunit beta OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=fdhB1 PE=1 SV=1,0,1,0
+sp|Q6LZA2|UVRB_METMP UvrABC system protein B OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=uvrB PE=3 SV=1,0,0,1
+tr|Q6LXG9|Q6LXG9_METMP Coenzyme F420 hydrogenase subunit alpha OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=fruA PE=3 SV=2,0,1,1
+tr|Q6LYD5|Q6LYD5_METMP YcaO domain-containing protein OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=MMP1056 PE=4 SV=1,0,0,1
+tr|Q6LZ04|Q6LZ04_METMP CoB--CoM heterodisulfide reductase iron-sulfur subunit A OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=hdrA PE=3 SV=1,1,1,1
+tr|Q6LZ06|Q6LZ06_METMP Coenzyme F420-non-reducing hydrogenase subunit alpha OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=vhcA PE=3 SV=1,1,1,1
+tr|Q6M016|Q6M016_METMP RNA helicase OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=MMP0457 PE=3 SV=1,0,1,1
+tr|Q6M0W8|Q6M0W8_METMP 16S rRNA aminocarboxypropyltransferase OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=MMP0150 PE=3 SV=1,0,0,1
+tr|Q6M0X0|Q6M0X0_METMP Acetate--CoA ligase OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=acsA PE=3 SV=1,0,1,0
+tr|Q6M0Y6|Q6M0Y6_METMP Branched-chain-amino-acid aminotransferase OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=ilvE PE=3 SV=1,0,0,1
+tr|Q6M150|Q6M150_METMP Nitrogen regulatory protein P-II OS=Methanococcus maripaludis (strain DSM 14266 / JCM 13030 / NBRC 101832 / S2 / LL) OX=267377 GN=glnK2 PE=3 SV=1,0,1,0

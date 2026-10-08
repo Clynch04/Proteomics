@@ -1,0 +1,6 @@
+# activates venv
+source /workdir/biol_594_694/proteomics_venv/bin/activate
+
+# Performs protein quantification
+python PXD047095_quant.py /home/cplcgns/proteomics/lab6/mzML_files/ /home/cplcgns/proteomics/lab6/bs_msfragger_3_0/2020-08-16_I__msfragger_3_0_pmap_unified_percolator_3_4_0_validated_accepted_merged.csv
+
